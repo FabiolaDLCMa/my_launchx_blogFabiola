@@ -1,6 +1,6 @@
 baseURL = "https://fabioladlcma.github.io/my_launchx_blogFabiola/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Fabi"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
