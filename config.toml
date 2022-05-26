@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://fabioladlcma.github.io/my_launchx_blogFabiola/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "@Fabiola19986589"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
